@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a318af3a.css",
+    "main.js": "/static/js/main.b010e3ec.js",
+    "static/js/787.ef710c08.chunk.js": "/static/js/787.ef710c08.chunk.js",
+    "static/media/SatQazanHeaderTemp.png": "/static/media/SatQazanHeaderTemp.e5156305b752fed55620.png",
+    "index.html": "/index.html",
+    "main.a318af3a.css.map": "/static/css/main.a318af3a.css.map",
+    "main.b010e3ec.js.map": "/static/js/main.b010e3ec.js.map",
+    "787.ef710c08.chunk.js.map": "/static/js/787.ef710c08.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a318af3a.css",
+    "static/js/main.b010e3ec.js"
+  ]
+}
